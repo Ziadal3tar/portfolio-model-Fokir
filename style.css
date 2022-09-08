@@ -36,35 +36,6 @@ nav {
     color: rgb(226, 6, 72);
     font-family: 'Roboto', sans-serif;
 }
-/* 
-.list {
-    width: 35%;
-    margin-right: 12%;
-}
-
-.list ul {
-    list-style-type: none;
-    display: flex;
-    padding: 0;
-    justify-content: space-around;
-}
-
-.list ul a {
-    text-decoration: none;
-    color: white;
-    font-size: 17;
-    font-weight: 600;
-    font-family: 'Roboto', sans-serif;
-}
-
-ul li .home {
-    color: rgb(255, 48, 91);
-}
-
-.list ul a:hover {
-    color: rgb(255, 48, 91);
-} */
-
 .text1 h3 {
     font-family: 'Source Sans Pro', sans-serif;
     text-align: center;
@@ -247,16 +218,6 @@ padding: 50px 0;
    
 }
 
-/* .textc7 {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 25;
-    color: rgb(63, 63, 63);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    position: absolute;
-    top: 50px;
-} */
 
 .kht1 {
     width: 70px;
@@ -319,70 +280,6 @@ padding: 0!important;
     margin-bottom: 4px;
     margin-top: 4px;
 }
-/* 
-.contact {
-    width: 100%;
-    height: 80%;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    margin-top: 40px;
-
-}
-
-.input1 input {
-    width: 330px;
-    height: 35px;
-    margin: 0 15px;
-    border-radius: 6% 1% 6% 1% 6% 1% 6% 1%;
-    padding-left: 15px;
-    font-family: 'Source Sans Pro', sans-serif;
-
-}
-
-.input2 input {
-    width: 695;
-    height: 35;
-    border-radius: 12% 1% 12% 1% 12% 1% 12% 1%;
-    margin-top: 30px;
-    margin-left: 15px;
-    padding-left: 15px;
-    font-family: 'Source Sans Pro', sans-serif;
-
-}
-
-.textarea textarea {
-    margin-top: 20px;
-    margin-left: 15px;
-    padding-left: 15px;
-    padding-top: 10px;
-    box-sizing: border-box;
-    font-family: 'Source Sans Pro', sans-serif;
-
-}
-
-.con8 button {
-    width: 150px;
-    height: 40px;
-    background-color: rgb(255, 48, 91);
-    color: white;
-    margin-top: 30px;
-    margin-left: 15px;
-    border-radius: 10px;
-    border: none;
-    transition: 0.3s;
-}
-
-.con8 button a {
-    text-decoration: none;
-    color: white;
-}
-
-.con8 button:hover {
-    background-color: rgb(255, 0, 0);
-}
- */
-
 /* ------------------------------99999999999999999999999999999999------------------------------ */
 .con9 {
     width: 100%;
